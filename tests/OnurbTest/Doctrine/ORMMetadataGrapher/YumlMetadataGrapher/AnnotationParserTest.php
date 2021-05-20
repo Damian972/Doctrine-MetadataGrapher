@@ -1,7 +1,7 @@
 <?php
 namespace OnurbTest\Doctrine\ORMMetadataGrapher\YumlMetadataGrapher;
 
-use Doctrine\Common\Persistence\Mapping\ClassMetadata;
+use Doctrine\Persistence\Mapping\ClassMetadata;
 use Onurb\Doctrine\ORMMetadataGrapher\YumlMetadataGrapher\AnnotationParser;
 use PHPUnit\Framework\TestCase;
 

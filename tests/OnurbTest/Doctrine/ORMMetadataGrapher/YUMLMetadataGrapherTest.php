@@ -19,7 +19,7 @@
 
 namespace OnurbTest\Doctrine\ORMMetadataGrapher;
 
-use Doctrine\Common\Persistence\Mapping\ClassMetadata;
+use Doctrine\Persistence\Mapping\ClassMetadata;
 use Onurb\Doctrine\ORMMetadataGrapher\YUMLMetadataGrapher;
 use PHPUnit\Framework\TestCase;
 

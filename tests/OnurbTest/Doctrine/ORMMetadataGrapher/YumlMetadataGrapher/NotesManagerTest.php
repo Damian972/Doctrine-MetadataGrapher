@@ -18,7 +18,7 @@
  */
 namespace OnurbTest\Doctrine\ORMMetadataGrapher\YumlMetadataGrapher;
 
-use Doctrine\Common\Persistence\Mapping\ClassMetadata;
+use Doctrine\Persistence\Mapping\ClassMetadata;
 use Onurb\Doctrine\ORMMetadataGrapher\YumlMetadataGrapher\NotesManager;
 use PHPUnit\Framework\TestCase;
 
